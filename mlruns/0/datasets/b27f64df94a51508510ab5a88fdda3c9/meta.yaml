@@ -1,0 +1,7 @@
+digest: 8da81803
+name: dataset
+profile: '{"num_rows": 4, "num_elements": 4}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "questions"}]}'
+source: '{"tags": {"mlflow.user": "r337555", "mlflow.source.name": "/Users/r337555/anaconda3/envs/MLflow/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
